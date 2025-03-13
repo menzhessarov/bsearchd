@@ -6,9 +6,8 @@ The values are stored in memory of the service and are loaded on start-up.
 
 1. Clone the project
 2. Make sure you've installed Go with the version that is shown in `go.mod` file
-3. Run `go mod tidy` to install the project dependencies
-4. Run `make run` to run the web server.
-5. [Optional] to run test use this command `make test`
+3. Run `make run` to run the web server.
+4. [Optional] to run test use this command `make test`
 
 Use this command to interact with the API. Change *100* to any number.
 ```shell
